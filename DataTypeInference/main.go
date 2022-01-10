@@ -5,7 +5,7 @@ import "fmt"
 //정적 자료형임 python과 다름
 func main(){
 	var a int=10
-	var a2 =10 
+	var a2 =10
 	a3:="little"
 	a3+="boy"
 	fmt.Println("Hello", a,a2,a3)
